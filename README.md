@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Software Engineer Intern at **Taknik Webwares**
 
-- 🌱 I’m currently learning **Django framework, Javascript, and ReactJS.**
+- 🌱 I’m currently learning **Javascript, NodeJS, and ReactJS.**
 
 - 💬 Ask me about **Python, Cyber Security**
 
