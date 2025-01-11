@@ -40,6 +40,7 @@ A senior Cybersecurity undergraduate at **FAST NUCES Karachi**, with a strong pa
 - **Data Engineering**: Experience with database design and data retrieval.
 
 
+
 I love working on impactful projects, mentoring others, and constantly learning new technologies. Feel free to connect with me if you’d like to collaborate or discuss exciting tech ideas!
 
 - 📫 How to reach me **anasizhere@gmail.com**
