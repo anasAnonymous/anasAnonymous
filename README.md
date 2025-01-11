@@ -9,7 +9,7 @@ A senior Cybersecurity undergraduate at **FAST NUCES Karachi**, with a strong pa
 
 
 ### **Projects**
-- **Generative AI Pharma Compliance & Gap Analysis** (Final Year Project):  
+- ###Generative AI Pharma Compliance & Gap Analysis** (Final Year Project):  
   Developing a system that analyzes company processes, provides **compliance scores**, and performs **gap analysis** using **Generative AI**.
   
 - **IoT Lock using Blockchain**:  
@@ -27,7 +27,7 @@ A senior Cybersecurity undergraduate at **FAST NUCES Karachi**, with a strong pa
 - Secured positions in **hackathons** and have been a finalist multiple times.
 - Lead and organized several **hackathons** and **technical events** as part of my community involvement.
 
-### **Community Involvement**
+## **Community Involvement**
 - **President, MLSA FAST Karachi (2024-25)** – Leading a community of tech enthusiasts, organizing workshops and sessions.
 - Have been actively involved in **Google Developer Student Club (GDSC)**, **MLSC**, **ACM**, and the **FAST Data Science Society**.
 - Passionate about **building solutions for real-world problems** and currently **working on a startup idea** aimed at solving practical challenges.
@@ -54,7 +54,6 @@ I love working on impactful projects, mentoring others, and constantly learning 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anashere" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="anashere" height="30" width="40" /></a>
-<a href="mailto:anasizhere@gmail.com?subject=Your Subject Here&body=Your Message Here" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="anashere" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
