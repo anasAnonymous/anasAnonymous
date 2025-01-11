@@ -41,14 +41,11 @@ A senior Cybersecurity undergraduate at **FAST NUCES Karachi**, with a strong pa
 
 <br>
 
-<br>
-
-<br>
-
 I love working on impactful projects, mentoring others, and constantly learning new technologies. Feel free to connect with me if you’d like to collaborate or discuss exciting tech ideas!
 
 - 📫 How to reach me **anasizhere@gmail.com**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anashere" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="anashere" height="30" width="40" /></a>
