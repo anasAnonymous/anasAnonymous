@@ -54,7 +54,7 @@ I love working on impactful projects, mentoring others, and constantly learning 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anashere" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="anashere" height="30" width="40" /></a>
-<a href="anasizhere@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="anashere" height="30" width="40" /></a>
+<a href="mailto:anasizhere@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="anashere" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
