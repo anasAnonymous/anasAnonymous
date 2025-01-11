@@ -1,3 +1,52 @@
+# About Me
+
+I’m Anas Khan, a senior Cybersecurity undergraduate at **FAST NUCES Karachi**, with a strong passion for technology, problem-solving, and community engagement. Currently, I am the **Campus Lead/President of MLSA FAST Karachi (2024-25)** and working as a **Software Engineer at Taknik Webwares**, where I primarily focus on **React development** and **unit, E2E, and visual/snapshot testing**.
+
+### **Professional Experience**
+- **Software Engineer** at Taknik Webwares – Working on React-based applications and ensuring code quality through rigorous testing methodologies.
+- Have been a **Teaching Assistant** for **Data Structures**, **Information Security**, and **Operating Systems** courses.
+- Taught **Python** and **Cybersecurity** courses to an **international student**, focusing on practical applications and real-world use cases.
+
+
+### **Projects**
+- **Generative AI Pharma Compliance System** (Final Year Project):  
+  Developing a system that analyzes company processes, provides **compliance scores**, and performs **gap analysis** using **Generative AI**.
+  
+- **IoT Lock using Blockchain**:  
+  Designed a secure IoT lock with **face recognition** and **blockchain-based authentication**.
+
+- **Student Portal** (Database Project):  
+  Built a comprehensive **student portal** for my university using the **PERN stack (PostgreSQL, Express, React, Node.js)**.
+
+- **Password Manager**:  
+  Created a secure password manager with **AES encryption**, a password strength analyzer, and a generator.
+
+
+### **Competitions and Achievements**
+- Secured positions in **Database & SQL competitions**.
+- Secured positions in **hackathons** and have been a finalist multiple times.
+- Lead and organized several **hackathons** and **technical events** as part of my community involvement.
+
+### **Community Involvement**
+- **President, MLSA FAST Karachi (2024-25)** – Leading a vibrant community of tech enthusiasts, organizing workshops, and fostering collaboration.
+- Actively involved in **Google Developer Student Club (GDSC)**, **MLSC**, **ACM**, and the **FAST Data Science Society**.
+- Passionate about **building solutions for real-world problems** and currently **working on a startup idea** aimed at solving practical challenges.
+
+### **Skills**
+- **Programming Languages**: Python, C++, JavaScript, SQL.  
+- **Tools and Frameworks**: React, Node.js, Express, PostgreSQL.  
+- **Cybersecurity**: Ethical hacking, Digital Forensics, and Python scripting for automation.
+- **Testing**: Unit, E2E, and visual testing using modern tools and frameworks.
+- **Data Engineering**: Experience with database design and data retrieval.
+
+
+I love working on impactful projects, mentoring others, and constantly learning new technologies. Feel free to connect with me if you’d like to collaborate or discuss exciting tech ideas!
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Anas Khan</h1>
 <h3 align="center">Pursuing Bachelors in Cyber Security.</h3>
 
