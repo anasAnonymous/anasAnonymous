@@ -48,13 +48,13 @@ I love working on impactful projects, mentoring others, and constantly learning 
 
 
 
+- 📫 How to reach me **anasizhere@gmail.com**
+
+
 <h3 align="left">Connect with me:</h3>
-- 📫Email: **anasizhere@gmail.com**
-
-
 <p align="left">
 <a href="https://linkedin.com/in/anashere" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="anashere" height="30" width="40" /></a>
-<!-- <a href="mailto:anasizhere@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="anashere" height="30" width="40" /></a> -->
+<a href="mailto:anasizhere@gmail.com?subject=Your Subject Here&body=Your Message Here" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="anashere" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -72,4 +72,3 @@ I love working on impactful projects, mentoring others, and constantly learning 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasanonymous&show_icons=true&locale=en&layout=compact" alt="anasanonymous" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasanonymous&show_icons=true&locale=en" alt="anasanonymous" /></p>
-
