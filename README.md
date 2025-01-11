@@ -9,16 +9,16 @@ A senior Cybersecurity undergraduate at **FAST NUCES Karachi**, with a strong pa
 
 
 ## **Projects**
-- ### Generative AI Pharma Compliance & Gap Analysis** (Final Year Project):  
+- ### Generative AI Pharma Compliance & Gap Analysis (Final Year Project):  
   Developing a system that analyzes company processes, provides **compliance scores**, and performs **gap analysis** using **Generative AI**.
   
-- ### IoT Lock using Blockchain**:  
+- ### IoT Lock using Blockchain:  
   Designed a secure IoT lock with **face recognition** and **blockchain-based authentication**.
 
-- ### Student Portal** (Database Project):  
+- ### Student Portal (Database Project):  
   Built a comprehensive **student portal** for my university using the **PERN stack (PostgreSQL, Express, React, Node.js)**.
 
-- ### Password Manager**:  
+- ### Password Manager:  
   Created a secure password manager with **AES encryption**, a password strength analyzer, and a generator.
 
 
