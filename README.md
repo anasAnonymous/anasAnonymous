@@ -4,7 +4,7 @@ A senior Cybersecurity undergraduate at **FAST NUCES Karachi**, with a strong pa
 
 ## **Professional Experience**
 - **Software Engineer** at Taknik Webwares – Working on React-based applications and ensuring code quality through rigorous testing methodologies.
-- Have been a **Teaching Assistant** for **Data Structures**, **Information Security**, and **Operating Systems** courses.
+- **Teaching Assistant** for **Data Structures**, **Information Security**, and **Operating Systems** courses.
 - Taught **Python** and **Cybersecurity** courses to an **international student**, focusing on practical applications and real-world use cases.
 
 
